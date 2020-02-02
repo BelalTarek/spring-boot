@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6311f8a2-1a91-4aa1-aeaf-715a4f2825e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X18ASPtnaVFf7EnUrvrBXqLTF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-kafka-producer-example-master" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gauravg.consumer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RequestReplyKafkaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gauravg.demo.RequestReplyKafkaApplication" />
+      <module name="RequestReplyKafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gauravg.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RequestReplyKafkaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6311f8a2-1a91-4aa1-aeaf-715a4f2825e4" name="Default Changelist" comment="" />
+      <created>1580202096274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580202096274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580202307082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580202307082" />
+    <state x="491" y="50" width="374" height="624" key="#com.intellij.ide.util.MemberChooser" timestamp="1580386998201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="491" y="50" width="374" height="624" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580386998201" />
+    <state x="416" y="112" width="524" height="499" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580387605898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="112" width="524" height="499" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580387605898" />
+    <state x="439" y="235" width="478" height="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580642616566">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="235" width="478" height="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1580642616566" />
+    <state width="467" height="466" key="DebuggerActiveHint" timestamp="1580386682106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="467" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1580386682106" />
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl" timestamp="1580394449811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580394449811" />
+    <state width="1320" height="218" key="GridCell.Tab.0.bottom" timestamp="1580643715871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580643715871" />
+    <state width="1320" height="218" key="GridCell.Tab.0.center" timestamp="1580643715871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580643715871" />
+    <state width="1320" height="218" key="GridCell.Tab.0.left" timestamp="1580643715870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580643715870" />
+    <state width="1320" height="218" key="GridCell.Tab.0.right" timestamp="1580643715871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580643715871" />
+    <state width="1320" height="227" key="GridCell.Tab.1.bottom" timestamp="1580400973799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="227" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580400973799" />
+    <state width="1320" height="227" key="GridCell.Tab.1.center" timestamp="1580400973798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="227" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580400973798" />
+    <state width="1320" height="227" key="GridCell.Tab.1.left" timestamp="1580400973798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="227" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580400973798" />
+    <state width="1320" height="227" key="GridCell.Tab.1.right" timestamp="1580400973799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="227" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580400973799" />
+    <state x="216" y="21" width="924" height="682" key="Maven.ArtifactSearchDialog" timestamp="1580642482506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="216" y="21" width="924" height="682" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580642482506" />
+  </component>
+</project>
